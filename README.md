@@ -54,6 +54,7 @@ The following questions were addressed using MySQL in this analysis:
 ## Project Structure
 
 - `Data Pulling and Cleaning using Pandas.ipynb`: Jupyter Notebook containing the data fetching and data transformation code.
+- `Data Analysis using SQL`: This file containing the questions and answer part, where SQL has been used to answer those questions.
 - `README.md`: This README file providing an overview of the project.
 
 ## Conclusion
