@@ -6,6 +6,10 @@ This project focuses on analyzing retail sales orders data using SQL and Python.
 
 Kaggle Dataset link: https://www.kaggle.com/datasets/ankitbansal06/retail-orders
 
+## Project Architecture
+
+![project_architecture](https://github.com/nazhur/Sales_Data_Analysis_using_SQL-Python/assets/125865054/f9e01f62-1797-45dd-b28d-5097b70457c6)
+
 ## Instructions
 
 Before loading the data into MySQL Workbench, it's necessary to create a new database in MySQL Workbench with the desired name, which will be used in the code. Additionally, while loading the data into the MySQL database, it's important to note the issue regarding incorrect data types. To address this, a table with column names and proper data types should be created prior to using the code snippet:
